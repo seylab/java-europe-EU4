@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"pl\tprintln"
+			],
+			[
+				"e",
+				"el\telse"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"coun",
+				"coutPython"
+			],
+			[
+				"cou",
+				"countJava"
+			],
+			[
+				"co",
+				"contains"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"j",
+				"j.u\tjava.util."
+			],
+			[
+				"backroun",
+				"background-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"gue",
+				"guestList"
+			],
+			[
+				"ip",
+				"input"
+			],
+			[
+				"a",
+				"againGuest"
+			],
+			[
+				"gu",
+				"guestName"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"sho",
+				"shoppingListReport"
+			],
+			[
+				"c",
+				"continue"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"fr",
+				"freeBooks"
+			],
+			[
+				"n",
+				"nbooksPurchased"
+			],
+			[
+				"su",
+				"substring"
+			],
+			[
+				"fro",
+				"fore\tfor (each)"
+			],
+			[
+				"int",
+				"intArray"
+			],
+			[
+				"arr",
+				"Arrays"
+			],
+			[
+				"t",
+				"targetArrayObject"
+			],
+			[
+				"tar",
+				"targetArrayObject"
+			],
+			[
+				"A",
+				"Arrays"
+			],
+			[
+				"ut",
+				"util"
+			],
+			[
+				"ar",
+				"Arrays"
+			],
+			[
+				"na",
+				"names"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"lo",
+				"locations"
+			],
+			[
+				"conti",
+				"contiguous"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"arra",
+				"ArrayList"
+			],
+			[
+				"your",
+				"yourAnswer"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"tran",
+				"transaction"
+			],
+			[
+				"tra",
+				"transaction"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"nm",
+				"num1"
+			],
+			[
+				"ma",
+				"makeAbba"
+			],
+			[
+				"L",
+				"Lab_3"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"O",
+				"Olgun"
+			],
+			[
+				"stri",
+				"String"
+			],
+			[
+				"el",
+				"elif\telse if"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"packe",
+				"Package"
+			],
+			[
+				"sy",
+				"System"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 269.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week12/Credentials.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week12/LogIn.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/ABCTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/ABC.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/StaticMethods.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/CalculatorTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/Calculator.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/DinnerTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/Dinner.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/CountableTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day36_staticClassMembers/Countable.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Repl_It_Text/task_102_ParseHTML.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Repl_It_Text/task_101_EqualsJavaPython",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day35_encapsulation/Lab - Encapsulation.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day35_encapsulation/Person.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day35_encapsulation/RoulettePocketTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day35_encapsulation/RoulettePocket.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day35_encapsulation/EmployeeTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day35_encapsulation/Employee.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day35_encapsulation/PerseonTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/SDLC/Jira intro/Jira intro note.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/SDLC/Bug severity&priority/bug severity note.txt",
+		"/C/Users/Cevdet Anamakine/Desktop/deneme/New folder/run.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/SDLC/class note.txt",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Board.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day34_Constructors/Apple.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day34_Constructors/Dice.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day34_Constructors/DiceTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day34_Constructors/AppleTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day34_Constructors/LigthTest.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day34_Constructors/Light.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/StartMenu.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Square.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Rook.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Queen.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Piece.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Pawn.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Knight.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/King.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/GameWindow.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Game.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Clock.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/CheckmateDetector.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Yeni klasör/chess-java/src/Bishop.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/TEST AUTOMATİON/login.html",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/CodingStudy/assignments/src/repl_it_task/task_047_RealEstateCalculator.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/StringPractice4.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/StringPractice3.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/StringPractice2.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/StringPractice1.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/StringReview.java",
+		"/C/Users/Cevdet Anamakine/Desktop/deneme/MathTutor.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/StringPractice5.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/ArraysPractice.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/ArraysPractice2.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/ArrayListPractice1.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/ArrayListPractice2.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/StringPractice6.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Repl_It_Text/task_085_ShoppingList_2.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Repl_It_Text/task_086_Party.java",
+		"/C/Users/Cevdet Anamakine/Desktop/deneme/math01.jar",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week10/test.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Repl_It_Text/task_084_OnlineBookMerchants.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Repl_It_Text/task_116_ArraysCountOfEvenNumber.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Summurizies/Template/ToDoSyntexIndex.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Summurizies/Day-16 Summary.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Summurizies/Template/ArraysClass.java",
+		"/C/Users/Cevdet Anamakine/Desktop/MathTutor.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Summurizies/Template/ArrayBasic.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/task83_RollDice.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day_0/Command_Practice.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/public class Hello World.java",
+		"/C/Users/Cevdet Anamakine/Desktop/MathTutor.class",
+		"/C/Users/Cevdet Anamakine/Desktop/deneme.java",
+		"/C/Users/Cevdet Anamakine/Desktop/interview.txt",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/task85_DiceGame.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/task84_CoinToss.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/MathTutor.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/RandomNumbers.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/Question_17_Palindrome.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/Question_15.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/Question_14.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/Question_13.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/Question_12.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day23_stringManipulationLab_randomClasss/Question_11.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question29.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question22.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question24.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question23.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question21.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question19.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question17.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question20.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question18.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day29_arrays_Lab/Lab4_Question16.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day32_arrayList_part2/GroceryListMain.java",
+		"/C/Users/Cevdet Anamakine/Downloads/Untitled (1)",
+		"/C/Users/Cevdet Anamakine/Downloads/Untitled",
+		"/E/Education/Cybertek Courses/SDET Course EU4/FlipGrid/Question_10/ArrayVsArrayList.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/CanIAskYouAQuestion.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/Punctuation.textile",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/AddNumbersFromStringList.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/CountLettersFromList.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/StringStars.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/MergeArrayWithArrayList.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/ExtractLetters.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/GetPositiveNumbers.java",
+		"/C/Users/Cevdet Anamakine/Downloads/GroceryAssignment",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/CamelCase.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/a_review/week9/SecondMaxNumber.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day18_readingUserInput/UserInput.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day18_readingUserInput/UserInput2.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day18_readingUserInput/UserInput3.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day31_arrayList/Day-30 Summary.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day32_arrayList_part2/Day-31 Summary.txt",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day32_arrayList_part2/GroceryList.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day32_arrayList_part2/CustomMethods.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day32_arrayList_part2/EqualMethod.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day32_arrayList_part2/RemoveAll.java",
+		"/C/Users/Cevdet Anamakine/Desktop/CHESS Study/Arena_3.5.1/Books/Yeni klasör/ReadMe.txt",
+		"/C/Users/Cevdet Anamakine/AppData/Local/Temp/Rar$DIa16984.10887/ReadMe.txt",
+		"/C/Users/Cevdet Anamakine/Desktop/CommandLineArgument.java",
+		"/C/Users/Cevdet Anamakine/Desktop/MyFirstJavaProgram.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day01_hello_world/Main.java",
+		"/C/Users/Cevdet Anamakine/Documents/GitHub/Java-EU4/src/day18_readingUserInput/UserInput.class",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day31_arrayList/ContainsMethod.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day31_arrayList/AddAll.java",
+		"/E/Education/Cybertek Courses/SDET Course EU4/Java Programming/day31_arrayList/ShoppingList.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 170.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Main.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
