@@ -11,7 +11,12 @@ public class ABCTest {
 		// whenever all of your methods in your class are static,
 		// and you want everyone to call them static way - ClassName.methodname(),
 		// then you can simply make your constructor private
+		
+		
 
+	}
+	public static void print() {
+//		Static int a= 5; // local variables can not be static
 	}
 
 }
