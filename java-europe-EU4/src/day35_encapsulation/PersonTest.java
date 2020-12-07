@@ -1,9 +1,9 @@
 package day35_encapsulation;
 
-public class personTest {
+public class PersonTest {
 
 	public static void main(String[] args) {
-		person p1 = new person();
+		Person p1 = new Person();
 
 		p1.setAge(35);
 		// print age

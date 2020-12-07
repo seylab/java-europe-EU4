@@ -1,6 +1,6 @@
 package day35_encapsulation;
 
-public class person {
+public class Person {
 
 	
 	private String name;
