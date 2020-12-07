@@ -13,11 +13,10 @@ public class PersonTest {
 
 		// cut the access - private
 		// create setter method to initialize my value
-		// create getter method to retrive it
+		// create getter method to retrieve it
 
 		// private variables
 		// public setter methods
 		// public getter methods
 	}
-
 }
