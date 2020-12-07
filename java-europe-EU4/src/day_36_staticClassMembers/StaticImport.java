@@ -1,4 +1,4 @@
-package day36_staticClassMembers;
+package day_36_staticClassMembers;
 
 import static java.lang.Math.*;  // import all static properties belongs to Math class
 

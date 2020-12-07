@@ -1,4 +1,4 @@
-package day37_inheritance;
+package day_37_inheritance;
 
 public class Person {
 

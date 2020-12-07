@@ -1,4 +1,4 @@
-package day36_staticClassMembers;
+package day_36_staticClassMembers;
 
 public class StaticInit {
 	
