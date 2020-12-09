@@ -5,8 +5,10 @@ public class DogTest {
 
 		Dog dog = new Dog("Yorkie", 1, 1, 8, 20, 2, 4, 1, 20, "Long Silky");
 		
-		dog.eat();
+		// dog.eat();
 		
-		System.out.println(dog.getName());
+		//System.out.println(dog.getName());
+		
+		dog.move(10);
 	}
 }

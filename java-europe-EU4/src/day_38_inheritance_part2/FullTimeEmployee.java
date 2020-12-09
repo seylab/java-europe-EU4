@@ -5,7 +5,6 @@ public class FullTimeEmployee extends Employee {
 	@Override
 	public void calculatePay(int hours, double rate) {
 		double total = (hours * rate) * 1.05;
-		System.out.println("FullTime Emplyee Total Pay:" + total);
+		System.out.println("FullTime Employee Total Pay:" + total);
 	}
 }
-// 01:43'te kaldim.
