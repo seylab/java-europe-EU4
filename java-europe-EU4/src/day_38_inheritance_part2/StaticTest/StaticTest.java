@@ -1,4 +1,4 @@
-package day_38_inheritance_part2;
+package day_38_inheritance_part2.StaticTest;
 
 public class StaticTest {
 
@@ -14,7 +14,6 @@ public class StaticTest {
 		
 		//StaticSub.m2();
 		StaticSub.m1();
-		
 		
 		obj.m2();
 	}

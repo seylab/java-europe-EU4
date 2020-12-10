@@ -1,4 +1,4 @@
-package day_38_inheritance_part2;
+package day_38_inheritance_part2.DogTest;
 
 public class DogTest {
 	public static void main(String[] args) {
