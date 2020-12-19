@@ -28,3 +28,8 @@ public class Person {
                 '}';
     }
 }
+
+/*
+Person:
+		attributes: name, age, gender
+ */

@@ -19,3 +19,8 @@ public class Tester extends Employee{
         System.out.println(jobTitle+" "+name+" is automating the application");
     }
 }
+/*
+Tester extends Employee:
+		attributes: name, age, gender, hourlyRate, jobTitle, isFullTime
+
+ */
