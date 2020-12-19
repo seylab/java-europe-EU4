@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Kangaroo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/KangrooTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Marsupial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/MethodHidingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Rodent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/TestMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final/TestParentChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final_2/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_accessmodifiers_final_2/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week14/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week14/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week14/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week14/ScrumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week14/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -112,6 +101,8 @@
       <workItem from="1607966860581" duration="8601000" />
       <workItem from="1608064021562" duration="570000" />
       <workItem from="1608064653120" duration="644000" />
+      <workItem from="1608069455282" duration="247000" />
+      <workItem from="1608390432644" duration="4312000" />
     </task>
     <task id="LOCAL-00001" summary="week13">
       <created>1607808224051</created>
