@@ -1,6 +1,6 @@
-package day40_accessmodifiers_final_2;
+package day_40_accessmodifiers_final_2;
 
-import day40_accessmodifiers_final.Car;
+import day_40_accessmodifiers_final.Car;
 
 public class Car2 extends Car {
 

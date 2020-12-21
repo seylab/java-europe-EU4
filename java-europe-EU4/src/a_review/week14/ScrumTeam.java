@@ -21,7 +21,7 @@ public class ScrumTeam {
         testers.add(tester);
     }
 
-    public void hireTester(Tester[] testers) {
+    public void hireTester(Tester[] testers) {// adds array of Testers to the arraylist of testers
 //        this.testers.addAll(Arrays.asList(testers));
 
         for (Tester eachTester : testers) {
@@ -29,7 +29,7 @@ public class ScrumTeam {
         }
     }
 
-    public void hireDeveloper(Developer developer) {
+    public void hireDeveloper(Developer developer) {// adds one developer to the arraylist of developers
         developers.add(developer);
     }
 
@@ -76,4 +76,6 @@ public class ScrumTeam {
                 ", developers=" + developers.size() +
                 '}';
     }
+
+
 }
