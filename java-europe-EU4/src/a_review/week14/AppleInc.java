@@ -32,7 +32,7 @@ public class AppleInc {
 
         // display the developers of the scrum team:
         for (Developer each : scrum1.developers){
-            System.out.println(each.name+" : "+each.calculateSalary());
+            System.out.println(each.name + " : " + each.calculateSalary());
             budget+=each.calculateSalary();
         }
 
