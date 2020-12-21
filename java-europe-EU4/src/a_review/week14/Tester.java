@@ -3,7 +3,7 @@ package a_review.week14;
 public class Tester extends Employee{
 
     public Tester(String name, int age, char gender, String ID, String jobTitle, double hourlyRate, boolean isFullTime) {
-        super(name, age, gender, ID, jobTitle, hourlyRate, isFullTime);
+        super(name, age, gender, hourlyRate, jobTitle, ID, isFullTime);
     }
 
     public  void  findBug(){

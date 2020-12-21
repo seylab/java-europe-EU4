@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="week14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1lZX12RgJmSweLeqkmMslCmfVJp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -34,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Education/Cybertek Courses/SDET Course EU4/Java Programming/CodingStudy/java-europe-EU4/.classpath" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.classpath" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -42,7 +44,7 @@
       <recent name="C:\Users\Cevdet Anamakine\git\JavaEu4\java-europe-EU4\src\a_review\week14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarTest">
+  <component name="RunManager" selected="Application.AppleInc">
     <configuration name="AppleInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a_review.week14.AppleInc" />
       <module name="java-europe-EU4" />
@@ -95,21 +97,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.AppleInc" />
+        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.ToyotaTest" />
         <item itemvalue="Application.B" />
       </list>
@@ -135,6 +126,10 @@
       <workItem from="1608556210738" duration="72000" />
       <workItem from="1608556952560" duration="220000" />
       <workItem from="1608557256511" duration="426000" />
+      <workItem from="1608558156943" duration="269000" />
+      <workItem from="1608558733553" duration="33000" />
+      <workItem from="1608558954200" duration="447000" />
+      <workItem from="1608562887622" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="week13">
       <created>1607808224051</created>

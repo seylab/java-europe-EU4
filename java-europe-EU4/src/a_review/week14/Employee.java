@@ -1,21 +1,23 @@
 package a_review.week14;
 
 public class Employee extends Person {
+
     public double hourlyRate;
     public String jobTitle, ID;
     public boolean isFullTime;
 
-    public Employee(String name, int age, char gender, String ID, String jobTitle, double hourlyRate, boolean isFullTime) {
+    public Employee(String name, int age, char gender, double hourlyRate, String jobTitle, String ID, boolean isFullTime) {
         super(name, age, gender);
         this.ID = ID;
         this.jobTitle = jobTitle;
         this.hourlyRate = hourlyRate;
         this.isFullTime = isFullTime;
-
     }
 
+
+
     public void work() {
-        System.out.println(jobTitle + " " + name + " is working");
+        System.out.println(jobTitle + " " +name+ " is working");
     }
 
     public double calculateSalary() { // 40 hours in a week, 52 week in a year
