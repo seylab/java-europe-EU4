@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="week14">
-      <change afterPath="$PROJECT_DIR$/src/a_review/week14/AppleInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Parrot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/ScrumTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/ScrumTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/FinalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/FinalArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/FinalMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/FinalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/FinalVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/Kangaroo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/KangrooTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/KangrooTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Marsupial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/Marsupial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/MethodHidingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/MethodHidingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/Rodent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/Rodent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/TestMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/TestMouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final/TestParentChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final/TestParentChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final_2/Car2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final_2/Car2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_accessmodifiers_final_2/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_40_accessmodifiers_final_2/CarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +34,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Education/Cybertek Courses/SDET Course EU4/Java Programming/CodingStudy/java-europe-EU4/.classpath" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.AppleInc">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cevdet Anamakine\git\JavaEu4\java-europe-EU4\src\a_review\week14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CarTest">
     <configuration name="AppleInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a_review.week14.AppleInc" />
       <module name="java-europe-EU4" />
@@ -87,6 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_40_accessmodifiers_final.CarTest" />
+      <module name="java-europe-EU4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_40_accessmodifiers_final.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ToyotaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_39_Inheritance_review_access_modifiers.ToyotaTest" />
       <module name="java-europe-EU4" />
@@ -100,8 +95,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.AppleInc" />
         <item itemvalue="Application.ToyotaTest" />
         <item itemvalue="Application.B" />
@@ -126,6 +133,8 @@
       <workItem from="1608390432644" duration="10733000" />
       <workItem from="1608544478772" duration="1938000" />
       <workItem from="1608556210738" duration="72000" />
+      <workItem from="1608556952560" duration="220000" />
+      <workItem from="1608557256511" duration="426000" />
     </task>
     <task id="LOCAL-00001" summary="week13">
       <created>1607808224051</created>
