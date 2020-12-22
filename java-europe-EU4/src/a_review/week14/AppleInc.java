@@ -59,7 +59,7 @@ public class AppleInc {
             System.out.println(eachScrum);
         }
 
-        Arrays.toString(scrums);
+        System.out.println(Arrays.toString(scrums));
 
 
         System.out.println("=================================================================");

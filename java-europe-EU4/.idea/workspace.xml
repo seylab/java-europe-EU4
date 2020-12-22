@@ -4,6 +4,13 @@
     <list default="true" id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="week14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/a_review/week14/AppleInc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/AppleInc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Parrot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +51,7 @@
       <recent name="C:\Users\Cevdet Anamakine\git\JavaEu4\java-europe-EU4\src\a_review\week14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppleInc">
+  <component name="RunManager" selected="Application.DogTest">
     <configuration name="AppleInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a_review.week14.AppleInc" />
       <module name="java-europe-EU4" />
@@ -58,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_review.week12.B" />
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_40_accessmodifiers_final.CarTest" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_review.week12.*" />
+          <option name="PATTERN" value="day_40_accessmodifiers_final.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_40_accessmodifiers_final.CarTest" />
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_38_inheritance_part2.DogTest.DogTest" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_40_accessmodifiers_final.*" />
+          <option name="PATTERN" value="day_38_inheritance_part2.DogTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DogTest" />
         <item itemvalue="Application.AppleInc" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.ToyotaTest" />
-        <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +163,8 @@
       <workItem from="1608558954200" duration="447000" />
       <workItem from="1608562887622" duration="1259000" />
       <workItem from="1608564485383" duration="239000" />
+      <workItem from="1608650991214" duration="4588000" />
+      <workItem from="1608655765517" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="week13">
       <created>1607808224051</created>
