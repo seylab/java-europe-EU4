@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="week14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/AppleInc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/AppleInc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_41_abstraction_class/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_41_abstraction_class/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_review/week14/ScrumTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/ScrumTeam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,17 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DogTest" />
@@ -164,7 +146,8 @@
       <workItem from="1608562887622" duration="1259000" />
       <workItem from="1608564485383" duration="239000" />
       <workItem from="1608650991214" duration="4588000" />
-      <workItem from="1608655765517" duration="474000" />
+      <workItem from="1608655765517" duration="4986000" />
+      <workItem from="1608727455871" duration="1249000" />
     </task>
     <task id="LOCAL-00001" summary="week13">
       <created>1607808224051</created>
