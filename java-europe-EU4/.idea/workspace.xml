@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="week14">
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/Electric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/ElectricCarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/ElectricTruck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/SelfDriving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/Tesla2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/TeslaSemi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/TeslaTruck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_42_interface/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,13 +112,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,7 +163,8 @@
       <workItem from="1608650991214" duration="4588000" />
       <workItem from="1608655765517" duration="4986000" />
       <workItem from="1608727455871" duration="1249000" />
-      <workItem from="1608811005365" duration="10519000" />
+      <workItem from="1608811005365" duration="11632000" />
+      <workItem from="1608995508852" duration="1549000" />
     </task>
     <task id="LOCAL-00001" summary="week13">
       <created>1607808224051</created>
@@ -228,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608811043978</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day42">
+      <created>1608832846874</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608832846874</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +254,7 @@
     <MESSAGE value="week14" />
     <MESSAGE value="Day 41" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="day42" />
+    <option name="LAST_COMMIT_MESSAGE" value="day42" />
   </component>
 </project>
