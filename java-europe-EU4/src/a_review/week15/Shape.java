@@ -11,8 +11,6 @@ public abstract class Shape {
 
 }
     /*
-
-
     1. create an abstract class called Shape
 			attributes:
 				name(static), area, perimeter, hasVolume(static), volume
