@@ -1,88 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="week14">
+    <list default="true" id="0774b7f5-05d4-483e-a50c-cccf020fd83d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_review/week14/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_review/week14/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="package-info" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
-  <component name="ProjectId" id="1lZX12RgJmSweLeqkmMslCmfVJp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1mNnnIehtcx0yvAjS0ldxXB30PH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.classpath" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Cevdet Anamakine\git\JavaEu4\java-europe-EU4\src\a_review\week14" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.AppleInc">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AppleInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_review.week14.AppleInc" />
+      <option name="MAIN_CLASS_NAME" value="a_review.week13.AppleInc" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_review.week14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_38_inheritance_part2.DogTest.DogTest" />
-      <module name="java-europe-EU4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_38_inheritance_part2.DogTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ElectricCarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_42_interface.ElectricCarTest" />
-      <module name="java-europe-EU4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_42_interface.*" />
+          <option name="PATTERN" value="a_review.week13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,19 +50,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day_01_HelloWorld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShapesObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_review.week15.ShapesObjects" />
-      <module name="java-europe-EU4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a_review.week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,134 +72,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppleInc" />
-        <item itemvalue="Application.ShapesObjects" />
-        <item itemvalue="Application.ElectricCarTest" />
-        <item itemvalue="Application.DogTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AppleInc" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4836c278-5e15-490a-9bd0-946c989e2948" name="Default Changelist" comment="" />
-      <created>1607805378892</created>
+      <changelist id="0774b7f5-05d4-483e-a50c-cccf020fd83d" name="Default Changelist" comment="" />
+      <created>1609343083564</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607805378892</updated>
-      <workItem from="1607805380091" duration="521000" />
-      <workItem from="1607805927337" duration="2113000" />
-      <workItem from="1607952203547" duration="4859000" />
-      <workItem from="1607966860581" duration="8601000" />
-      <workItem from="1608064021562" duration="570000" />
-      <workItem from="1608064653120" duration="644000" />
-      <workItem from="1608069455282" duration="247000" />
-      <workItem from="1608390432644" duration="10733000" />
-      <workItem from="1608544478772" duration="1938000" />
-      <workItem from="1608556210738" duration="72000" />
-      <workItem from="1608556952560" duration="220000" />
-      <workItem from="1608557256511" duration="426000" />
-      <workItem from="1608558156943" duration="269000" />
-      <workItem from="1608558733553" duration="33000" />
-      <workItem from="1608558954200" duration="447000" />
-      <workItem from="1608562887622" duration="1259000" />
-      <workItem from="1608564485383" duration="239000" />
-      <workItem from="1608650991214" duration="4588000" />
-      <workItem from="1608655765517" duration="4986000" />
-      <workItem from="1608727455871" duration="1249000" />
-      <workItem from="1608811005365" duration="11632000" />
-      <workItem from="1608995508852" duration="3740000" />
-      <workItem from="1609009868721" duration="515000" />
-      <workItem from="1609159206188" duration="1911000" />
-      <workItem from="1609191289039" duration="1956000" />
-      <workItem from="1609193282532" duration="1181000" />
+      <updated>1609343083564</updated>
+      <workItem from="1609343084676" duration="99000" />
+      <workItem from="1609343207717" duration="728000" />
     </task>
-    <task id="LOCAL-00001" summary="week13">
-      <created>1607808224051</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1607808224051</updated>
-    </task>
-    <task id="LOCAL-00002" summary="day39">
-      <created>1607979790071</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1607979790071</updated>
-    </task>
-    <task id="LOCAL-00003" summary="week14">
-      <created>1608396235801</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1608396235801</updated>
-    </task>
-    <task id="LOCAL-00004" summary="week14">
-      <created>1608396400284</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1608396400284</updated>
-    </task>
-    <task id="LOCAL-00005" summary="week14">
-      <created>1608396894614</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1608396894614</updated>
-    </task>
-    <task id="LOCAL-00006" summary="week14">
-      <created>1608397290659</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1608397290659</updated>
-    </task>
-    <task id="LOCAL-00007" summary="week14">
-      <created>1608397952337</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1608397952337</updated>
-    </task>
-    <task id="LOCAL-00008" summary=".">
-      <created>1608811043978</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1608811043978</updated>
-    </task>
-    <task id="LOCAL-00009" summary="day42">
-      <created>1608832846874</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1608832846874</updated>
-    </task>
-    <task id="LOCAL-00010" summary="week15">
-      <created>1609002266378</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1609002266379</updated>
-    </task>
-    <task id="LOCAL-00011" summary="week15">
-      <created>1609009984579</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1609009984579</updated>
-    </task>
-    <task id="LOCAL-00012" summary=".">
-      <created>1609159822164</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1609159822164</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,16 +104,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="week13" />
-    <MESSAGE value="day39" />
-    <MESSAGE value="week14" />
-    <MESSAGE value="Day 41" />
-    <MESSAGE value="day42" />
-    <MESSAGE value="week15" />
-    <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
