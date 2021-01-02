@@ -26,6 +26,7 @@ public class PhoneObjects {
         ((IPhone) phone4).calling(21154565);
 
         phone1.calling(3231);
+        ((IPhone) phone4).calling(1254);
 
 
     }
