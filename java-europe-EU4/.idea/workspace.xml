@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0774b7f5-05d4-483e-a50c-cccf020fd83d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/AndroidApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/AppleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/CyberPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/Downloadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/PhoneObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week15/Samsung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -25,8 +41,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.project" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -57,13 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,7 +103,8 @@
       <updated>1609343083564</updated>
       <workItem from="1609343084676" duration="99000" />
       <workItem from="1609343207717" duration="1582000" />
-      <workItem from="1609344845258" duration="101000" />
+      <workItem from="1609344845258" duration="866000" />
+      <workItem from="1609604986359" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="misc.xml">
       <created>1609344164201</created>
@@ -94,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609344164201</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1609345041768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609345041769</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="misc.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="misc.xml" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
