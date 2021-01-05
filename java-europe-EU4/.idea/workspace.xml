@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0774b7f5-05d4-483e-a50c-cccf020fd83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/BadArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/CheckedVSUncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/MultiCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/Nullpointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/OrCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/Runtimeerror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/ThrowAndThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/TryCacthFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_45_exceptions/Trycatch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_46_collection_part_1/ArrayVSArratList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_46_collection_part_1/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_46_collection_part_1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_46_collection_part_1/SortingAList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_46_collection_part_1/VectorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +43,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.ThrowAndThrows">
-    <configuration name="MultiCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_45_exceptions.MultiCatch" />
+  <component name="RunManager" selected="Application.DinnerTest">
+    <configuration name="DinnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_36_staticClassMembers.DinnerTest" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_45_exceptions.*" />
+          <option name="PATTERN" value="day_36_staticClassMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nullpointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_45_exceptions.Nullpointer" />
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_46_collection_part_1.LinkedListExample" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_45_exceptions.*" />
+          <option name="PATTERN" value="day_46_collection_part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runtimeerror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_45_exceptions.Runtimeerror" />
+    <configuration name="SortingAList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_46_collection_part_1.SortingAList" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_45_exceptions.*" />
+          <option name="PATTERN" value="day_46_collection_part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCacthFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_45_exceptions.TryCacthFinally" />
+    <configuration name="VectorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_46_collection_part_1.VectorExample" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_45_exceptions.*" />
+          <option name="PATTERN" value="day_46_collection_part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DinnerTest" />
+        <item itemvalue="Application.VectorExample" />
+        <item itemvalue="Application.LinkedListExample" />
+        <item itemvalue="Application.SortingAList" />
         <item itemvalue="Application.ThrowAndThrows" />
-        <item itemvalue="Application.MultiCatch" />
-        <item itemvalue="Application.Runtimeerror" />
-        <item itemvalue="Application.TryCacthFinally" />
-        <item itemvalue="Application.Nullpointer" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +142,9 @@
       <workItem from="1609343207717" duration="1582000" />
       <workItem from="1609344845258" duration="866000" />
       <workItem from="1609604986359" duration="5442000" />
-      <workItem from="1609760830215" duration="10253000" />
+      <workItem from="1609760830215" duration="11219000" />
+      <workItem from="1609838168797" duration="1519000" />
+      <workItem from="1609870980326" duration="9384000" />
     </task>
     <task id="LOCAL-00001" summary="misc.xml">
       <created>1609344164201</created>
@@ -184,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609613031088</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 45 - Error Handling / Handling Exceptions">
+      <created>1609789654515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609789654515</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +210,7 @@
     <MESSAGE value="misc.xml" />
     <MESSAGE value="." />
     <MESSAGE value="week15 Review" />
-    <option name="LAST_COMMIT_MESSAGE" value="week15 Review" />
+    <MESSAGE value="Day 45 - Error Handling / Handling Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 45 - Error Handling / Handling Exceptions" />
   </component>
 </project>
