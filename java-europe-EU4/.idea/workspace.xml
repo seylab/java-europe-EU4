@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0774b7f5-05d4-483e-a50c-cccf020fd83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day_47_collection_part_2/LoopArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_47_collection_part_2/LoopSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_47_collection_part_2/LoopWithIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_47_collection_part_2/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_47_collection_part_2/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_47_collection_part_2/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/HashSetOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/ListOfMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/LoopMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/MapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +44,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.LoopWithIterator">
-    <configuration name="LoopArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_47_collection_part_2.LoopArrayList" />
+  <component name="RunManager" selected="Application.ListOfMaps">
+    <configuration name="HashSetOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_48_collection_part_3.HashSetOfProducts" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_47_collection_part_2.*" />
+          <option name="PATTERN" value="day_48_collection_part_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +58,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_47_collection_part_2.LoopSet" />
+    <configuration name="ListOfMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_48_collection_part_3.ListOfMaps" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_47_collection_part_2.*" />
+          <option name="PATTERN" value="day_48_collection_part_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_48_collection_part_3.LoopMap" />
+      <module name="java-europe-EU4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_48_collection_part_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_47_collection_part_2.QueueExample" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_48_collection_part_3.MapExample" />
       <module name="java-europe-EU4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_47_collection_part_2.*" />
+          <option name="PATTERN" value="day_48_collection_part_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,39 +110,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_47_collection_part_2.SetExample" />
-      <module name="java-europe-EU4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_47_collection_part_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListOfMaps" />
+        <item itemvalue="Application.LoopMap" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.HashSetOfProducts" />
         <item itemvalue="Application.LoopWithIterator" />
-        <item itemvalue="Application.LoopSet" />
-        <item itemvalue="Application.LoopArrayList" />
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.QueueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +146,8 @@
       <workItem from="1609760830215" duration="11219000" />
       <workItem from="1609838168797" duration="1519000" />
       <workItem from="1609870980326" duration="9931000" />
-      <workItem from="1610394741231" duration="6152000" />
+      <workItem from="1610394741231" duration="7032000" />
+      <workItem from="1610473411566" duration="6164000" />
     </task>
     <task id="LOCAL-00001" summary="misc.xml">
       <created>1609344164201</created>
@@ -201,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609888288775</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="day_47_collection_part_2">
+      <created>1610407774854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610407774854</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +229,7 @@
     <MESSAGE value="week15 Review" />
     <MESSAGE value="Day 45 - Error Handling / Handling Exceptions" />
     <MESSAGE value="day_46_collection_part_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day_46_collection_part_1" />
+    <MESSAGE value="day_47_collection_part_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day_47_collection_part_2" />
   </component>
 </project>
