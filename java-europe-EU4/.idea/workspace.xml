@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0774b7f5-05d4-483e-a50c-cccf020fd83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/HashSetOfProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/ListOfMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/LoopMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_48_collection_part_3/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week17/CountLettersMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_review/week17/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.ListOfMaps">
+  <component name="RunManager" selected="Application.CountLettersMap">
+    <configuration name="CountLettersMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_review.week17.CountLettersMap" />
+      <module name="java-europe-EU4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_review.week17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashSetOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_48_collection_part_3.HashSetOfProducts" />
       <module name="java-europe-EU4" />
@@ -84,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopWithIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_47_collection_part_2.LoopWithIterator" />
-      <module name="java-europe-EU4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_47_collection_part_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_48_collection_part_3.MapExample" />
       <module name="java-europe-EU4" />
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountLettersMap" />
         <item itemvalue="Application.ListOfMaps" />
         <item itemvalue="Application.LoopMap" />
         <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.HashSetOfProducts" />
-        <item itemvalue="Application.LoopWithIterator" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,9 @@
       <workItem from="1609838168797" duration="1519000" />
       <workItem from="1609870980326" duration="9931000" />
       <workItem from="1610394741231" duration="7032000" />
-      <workItem from="1610473411566" duration="6164000" />
+      <workItem from="1610473411566" duration="6894000" />
+      <workItem from="1610562985842" duration="68000" />
+      <workItem from="1610810115996" duration="4176000" />
     </task>
     <task id="LOCAL-00001" summary="misc.xml">
       <created>1609344164201</created>
@@ -205,7 +207,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610407774854</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day_48_collection_part_3">
+      <created>1610489217705</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610489217705</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day_48_collection_part_3">
+      <created>1610489250582</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610489250582</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <created>1610812217276</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610812217276</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +253,8 @@
     <MESSAGE value="Day 45 - Error Handling / Handling Exceptions" />
     <MESSAGE value="day_46_collection_part_1" />
     <MESSAGE value="day_47_collection_part_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day_47_collection_part_2" />
+    <MESSAGE value="day_48_collection_part_3" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
 </project>
