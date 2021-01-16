@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0774b7f5-05d4-483e-a50c-cccf020fd83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_review/week17/CountLettersMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_review/week17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_review/week17/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +145,7 @@
       <workItem from="1610394741231" duration="7032000" />
       <workItem from="1610473411566" duration="6894000" />
       <workItem from="1610562985842" duration="68000" />
-      <workItem from="1610810115996" duration="4176000" />
+      <workItem from="1610810115996" duration="5084000" />
     </task>
     <task id="LOCAL-00001" summary="misc.xml">
       <created>1609344164201</created>
@@ -228,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610812217276</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="review.week17">
+      <created>1610820365022</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610820365022</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +258,7 @@
     <MESSAGE value="day_47_collection_part_2" />
     <MESSAGE value="day_48_collection_part_3" />
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="review.week17" />
+    <option name="LAST_COMMIT_MESSAGE" value="review.week17" />
   </component>
 </project>
